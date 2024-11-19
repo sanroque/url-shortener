@@ -1,2 +1,2 @@
-# url-shortner
-A url shortner app made with Java + AWS Lambda &amp; S3
+# url-shortener
+A url shortener app made with Java + AWS Lambda &amp; S3
